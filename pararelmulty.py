@@ -1,5 +1,4 @@
 import time
-import sys
 import subprocess
 import multiprocessing
 T1 = time.perf_counter()
